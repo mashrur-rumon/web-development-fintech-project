@@ -1,0 +1,114 @@
+#response {
+    
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: -70px;
+    margin-left: 20%;
+    
+}
+
+.page-content {
+    
+    width: 63%;
+    
+    
+    
+}
+
+#page-title {
+    
+    margin-top: 10%;
+    font-size: 35px;
+    margin-bottom: 10%;
+    margin-left: -100px;
+    border-left: 5px solid #f05454;
+    text-transform: uppercase;
+    color: #f05454;
+    
+}
+
+.box {
+    
+    display: inline-block;
+    margin-right: 10%;
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+    box-shadow: 5px 5px #d2d3c9;
+    margin-bottom: 10%;
+    
+}
+
+.box:hover {
+    
+    box-shadow: 5px 5px #f05454;
+    
+}
+
+.title {
+    
+    height: 70px;
+    width: 210px;
+    background-color: #f05454;
+    color: white;
+    
+}
+
+.title h1 {
+    
+    text-align: center;
+}
+
+.info p {
+    
+    margin-top: 10%;
+    font-size: 20px;
+    color: #f05454;
+    
+}
+
+input[type=button] {
+    
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 20px;
+    background-color: #222831;
+    color: white;
+    margin-top: 10%;
+    margin-left: 14%;
+}
+
+input[type=button]:hover{
+    
+    background-color: white;
+    color: black;
+    
+}
+
+label {
+    
+    font-size: 30px;
+    font-weight: bold;
+    font-style: oblique;
+    color: #f05454;
+    margin-right: 5%;
+    
+}
+
+input[type=number] {
+    
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 5%;
+    font-size: 20px;
+    color: #0f3057;
+    margin-top: 5%;
+}
+
+select {
+    
+    font-size: 20px;
+    color: #0f3057;
+    
+}

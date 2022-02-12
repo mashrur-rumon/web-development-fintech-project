@@ -1,0 +1,34 @@
+body{
+	background-color: #f4f4f4;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: green;
+}
+.catagory{
+	background-color: #F4A460;
+	border: 5px red solid;
+	padding: 20px;
+	
+	margin-left:  400px;
+	margin-right:  400px;
+	}
+.heading{
+	margin-left:  500px;
+
+}
+.catagory h3{
+	font-family: tahoma;
+	font-weight: 800;
+	font-style: italic;
+	text-decoration: underline;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+
+}

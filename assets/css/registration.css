@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/*navbar css start*/
+
+.navbar {
+    overflow: hidden;
+    background-color: #f4f4f4;
+    padding: 0 5%;
+    line-height: 2;
+
+}
+
+.nav-logo-section {
+    float: left;
+    width: 40%
+}
+
+.nav-logo-section img {
+    height: 4.8125rem;
+    float: left;
+}
+
+.nav-link-section {
+    float: left;
+    width: 60%;
+    padding-left: 40%;
+    box-sizing: border-box;
+}
+
+.nav-link-section ul {
+    list-style: none;
+}
+
+.nav-link-section ul li {
+    display: inline-block;
+    padding: 1.5625rem;
+    font-size: 1.25rem;
+}
+
+.nav-link-section ul li:hover {
+    border: 0.0625rem solid black;
+}
+
+.nav-link-section ul li a {
+    text-decoration: none;
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+/*navbar css end*/
+
+/*form css Start*/
+
+
+#form-section {
+    
+    
+}
+
+#form-area {
+ 
+    width: 60%;
+    margin-left: 25%;
+    color: #0f3057;
+    font-weight: bold;
+    
+}
+
+input[type=text],input[type=password], input[type=date] {
+    
+    margin-left: 40%;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 10%;
+    
+    
+}
+
+#Username {
+    
+    margin-left: 36.5%;
+    
+    
+}
+
+#Password {
+    
+    margin-left: 36.9%;
+    
+}
+
+#CPassword {
+    
+    margin-left: 29%;
+    
+}
+
+#dob {
+    
+    margin-left: 33.7%;
+    padding-right: 2%;
+    
+}
+
+.field {
+    
+    margin: 2.5% 0;
+    font-size: 20px;
+    font-style: oblique;
+    
+    
+}
+
+label {
+    
+    position: relative;
+    left: 15%;
+    
+}
+
+input[type=radio] {
+    
+    margin-left: 2.5%;
+    
+}
+
+#MaleLabel {
+    
+    margin-left: 30%;
+    
+}
+
+#clientLabel {
+    
+    margin-left: 27.7%;
+    
+}
+
+.title {
+    
+    font-size: 40px;
+    margin-left: 33%;
+    margin-bottom: 5%;
+    text-decoration: underline;
+    color: #ff7b54;
+    
+}
+
+input[type=button] {
+    
+    margin-left: 15%;
+    padding: 5px 20px;
+    border-radius: 20px;
+    font-size: 25px;
+    background-color: #222831;
+    color: white;
+    
+}
+
+input[type=button]:hover{
+    
+    background-color: white;
+    color: black;
+    
+}
+
+#response {
+
+    margin-left: 48%;
+    font-size: 25px;
+    margin-top: -2%;
+    color: #ff7b54;
+    text-transform: uppercase;
+}
+
+/*form css End*/

@@ -1,0 +1,126 @@
+/*navbar css start*/
+
+.navbar {
+    overflow: hidden;
+    background-color: #f4f4f4;
+    padding: 0 5%;
+    line-height: 2;
+
+}
+
+.nav-logo-section {
+    float: left;
+    width: 40%
+}
+
+.nav-logo-section img {
+    height: 5.8125rem;
+    float: left;
+}
+
+.nav-link-section {
+    float: left;
+    width: 60%;
+    padding-left: 35%;
+    box-sizing: border-box;
+}
+
+.nav-link-section ul {
+    list-style: none;
+}
+
+.nav-link-section ul li {
+    display: inline-block;
+    padding: 1.5625rem;
+    font-size: 1.25rem;
+}
+
+.nav-link-section ul li:hover {
+    border: 0.0625rem solid black;
+}
+
+.nav-link-section ul li a {
+    text-decoration: none;
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+/*navbar css end*/
+
+/*form css start*/
+
+input[type=text],input[type=password]{
+    width: 35%;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    margin-left: 30%;
+    background-color: black;
+    color: white;
+    border: 0;
+    
+    
+}
+
+input[type=button]{
+    
+    display: inline;
+    padding: 10px 25px;
+    font-size: 15px;
+    border-radius: 30px;
+    background-color: #222831;
+    color: white;
+    
+}
+
+input[type=button]:hover{
+    
+    background-color: white;
+    color: black;
+    
+}
+
+#Submit{
+    display: inline;
+    padding: 10px 25px;
+    font-size: 15px;
+    border-radius: 30px;
+    background-color: #222831;
+    margin-left: 33%;
+    text-decoration: none;
+    color: white;
+    
+}
+
+#Submit:hover{
+    
+    background-color: white;
+    color: black;
+    
+}
+
+.form-section{
+    
+    width: 50%;
+    margin: auto;
+    align-content: center;
+}
+
+#signUp{
+    
+    text-decoration: none;
+    
+}
+
+.title{
+    
+    margin-left: 18%;
+    font-size: 40px;
+    color: #f05454;
+    text-shadow: 1.5px 1.5px black;
+    
+}
+
+
+/*form css end*/

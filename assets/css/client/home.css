@@ -1,0 +1,19 @@
+.page-content h1 {
+    
+    text-align: center;
+    font-size: 35px;
+    color: #2d6187;
+    line-height: 2;
+    margin-bottom: 5%;
+    margin-top: 15%;
+    
+}
+
+.page-content p {
+    
+    color: #f05454;
+    margin-bottom: 3%;
+    font-size: 20px;
+    text-align: center;
+    
+}

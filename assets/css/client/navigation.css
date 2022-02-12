@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+/*navbar css start*/
+
+.navbar {
+    overflow: hidden;
+    background-color: #f4f4f4;
+    padding: 0 5%;
+    line-height: 2;
+
+}
+
+.nav-logo-section {
+    float: left;
+    width: 40%
+}
+
+.nav-logo-section img {
+    height: 4.8125rem;
+    float: left;
+}
+
+.nav-link-section {
+    float: left;
+    width: 60%;
+    padding-left: 47%;
+    box-sizing: border-box;
+}
+
+.nav-link-section ul {
+    list-style: none;
+}
+
+.nav-link-section ul li {
+    display: inline-block;
+    padding: 1.5625rem;
+    font-size: 1.25rem;
+}
+
+.nav-link-section ul li:hover {
+    border: 0.0625rem solid black;
+}
+
+.nav-link-section ul li a {
+    text-decoration: none;
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+/*navbar css end*/
+
+/*page nav css Start*/
+
+.page-navigation {
+    
+    width: 20%;
+    background-color: #f6830f;
+    display: inline-block;
+    
+    
+}
+
+.page-navigation a {
+    
+    display: block;
+    text-decoration: none;
+    padding: 25px;
+    text-transform: uppercase;
+    font-size: 17px;
+    color: black;
+    border: 1px solid black;
+    font-style: oblique;
+    font-weight: bold;
+    
+}
+
+.page-navigation a:hover {
+    
+    background-color: black;
+    color: white;
+    
+}
+
+.page-content {
+    
+    display: inline-block;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 45%;
+    
+}
+
+/*page nav css End*/
